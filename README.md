@@ -1,2 +1,2 @@
 # AIINBUISNESSPROJECT
-Ai in Bisiness
+AI in Industry
